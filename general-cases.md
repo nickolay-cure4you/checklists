@@ -14,6 +14,7 @@
     - archive tables:
         - 
     - cache (memcache, zend cache, views)
+    - user and patient synchronization
 
 3. Create, read, update, delete
     - Check healthcare side
